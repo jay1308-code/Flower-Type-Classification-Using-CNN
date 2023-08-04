@@ -1,7 +1,10 @@
+# Import the some library 
+# Importing tensorflfw
 import tensorflow as tf
 from tensorflow.keras import layers
 
 # Create a sequential model
+# adding the model 
 model = tf.keras.Sequential()
 
 # Add convolutional layers
