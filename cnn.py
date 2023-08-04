@@ -1,8 +1,13 @@
+# Import the some library 
+# Importing tensorflfw
 import tensorflow as tf
 from tensorflow.keras import layers
 
-# dev2 updates
-#Create a sequential model
+
+
+# Create a sequential model
+# adding the model 
+
 model = tf.keras.Sequential()
 
 # Add convolutional layers
